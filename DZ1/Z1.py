@@ -8,6 +8,6 @@
 
 a=int(input('цифру  от 1 до 7 - '))
 if a<=5:
-    print('=>нет')
+    print('=>будни')
 else:
-    print('=>да')
+    print('=>выходной')
